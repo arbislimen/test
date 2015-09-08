@@ -7,6 +7,7 @@ and open the template in the editor.
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Test Git</title>
+        <meta name="description" content="Test">
     </head>
     <body>
         <?php
